@@ -1,0 +1,5 @@
+*.csv
+models/*
+*.pickle
+models_wifi_per_floor/*
+*.txt
